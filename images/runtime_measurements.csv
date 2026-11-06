@@ -1,0 +1,9 @@
+algorithm,input_size,scale,time_seconds
+Merge sort,250,small,0.003514500
+Merge sort,2000,large,0.064366900
+0/1 Knapsack DP,20,small,0.005336800
+0/1 Knapsack DP,80,large,0.022512800
+Dijkstra (single source),30,small,0.000148100
+Dijkstra (single source),120,large,0.001202000
+Nearest-neighbor TSP,10,small,0.000036500
+Nearest-neighbor TSP,40,large,0.000773200

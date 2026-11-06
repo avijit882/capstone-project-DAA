@@ -1,0 +1,13 @@
+parcel_id,recipient,destination,weight_kg,priority_score,deadline_hours,declared_value
+P001,Asha,Clinic,2.4,98,2,500
+P002,Rohan,Market,4.1,72,6,240
+P003,Meera,University,1.2,91,3,420
+P004,Kabir,Library,3.3,65,8,180
+P005,Ira,Station,5.0,84,4,350
+P006,Dev,Hospital,2.0,100,1,600
+P007,Anaya,Park,1.8,58,10,120
+P008,Vikram,Airport,6.2,76,5,300
+P009,Diya,Museum,2.7,88,3,400
+P010,Arjun,Stadium,3.6,69,7,210
+P011,Sana,Harbor,4.4,80,6,330
+P012,Neil,Theatre,1.5,62,9,150
